@@ -10,7 +10,7 @@ Aqui você encontrará slides, códigos, listas de exercícios, projetos e mater
 
 | Disciplina | Descrição | Material |
 |------------|-----------|----------|
-| 🗣️ **Processamento de Linguagem Natural (PLN) e Chatbots** | Fundamentos de PLN, técnicas de pré-processamento de texto, modelos de linguagem e construção de chatbots. | [📂 Acessar](./testes-otimizacao-jogos) |
+| 🗣️ **Processamento de Linguagem Natural (PLN) e Chatbots** | Fundamentos de PLN, técnicas de pré-processamento de texto, modelos de linguagem e construção de chatbots. | [📂 Acessar](./pln-chatbots) |
 | 🤖 **Machine Learning Aplicado** | Introdução ao aprendizado de máquina, algoritmos supervisionados e não supervisionados, avaliação de modelos e aplicações práticas. | [📂 Acessar](https://github.com/ErikaDilly/BDJD/wiki) |
 ---
 <!--
