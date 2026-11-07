@@ -11,7 +11,7 @@ Aqui você encontrará slides, códigos, listas de exercícios, projetos e mater
 | Disciplina | Descrição | Material |
 |------------|-----------|----------|
 | 🗣️ **Processamento de Linguagem Natural (PLN) e Chatbots** | Fundamentos de PLN, técnicas de pré-processamento de texto, modelos de linguagem e construção de chatbots. | [📂 Acessar](https://github.com/ErikaDilly/CETAM-IA/wiki) |
-| 🤖 **Machine Learning Aplicado** | Introdução ao aprendizado de máquina, algoritmos supervisionados e não supervisionados, avaliação de modelos e aplicações práticas. | [📂 Acessar](https://github.com/ErikaDilly/BDJD/wiki) |
+| 🤖 **Machine Learning Aplicado** | Introdução ao aprendizado de máquina, algoritmos supervisionados e não supervisionados, avaliação de modelos e aplicações práticas. | [📂 Acessar]([https://github.com/ErikaDilly/BDJD/wiki](https://github.com/ErikaDilly/ML-estudos/wiki)) |
 ---
 <!--
 ## 🕹️ Processamento de Linguagem Natural (PLN) e Chatbots
