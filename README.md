@@ -1,4 +1,4 @@
-# 🎮 Curso Técnico de Nível Médio em Programação de Inteligência Artificial
+# 🤖 Curso Técnico de Nível Médio em Programação de Inteligência Artificial
 
 Repositório com o material das disciplinas ministradas no **Curso Técnico de Nível Médio em Inteligência Artificial** do **CETAM**.
 
@@ -10,11 +10,11 @@ Aqui você encontrará slides, códigos, listas de exercícios, projetos e mater
 
 | Disciplina | Descrição | Material |
 |------------|-----------|----------|
-| 🗣️ **Processamento de Linguagem Natural (PLN) e Chatbots** | Fundamentos de PLN, técnicas de pré-processamento de texto, modelos de linguagem e construção de chatbots. | [📂 Acessar](https://github.com/ErikaDilly/CETAM-IA/wiki) |
-| 🤖 **Machine Learning Aplicado** | Introdução ao aprendizado de máquina, algoritmos supervisionados e não supervisionados, avaliação de modelos e aplicações práticas. | [📂 Acessar]([https://github.com/ErikaDilly/BDJD/wiki](https://github.com/ErikaDilly/ML-estudos/wiki)) |
+| 🗣️ **Processamento de Linguagem Natural (PLN) e Chatbots** | Fundamentos de PLN, técnicas de pré-processamento de texto, modelos de linguagem e construção de chatbots. | [📂 Acessar conteúdo](https://github.com/ErikaDilly/CETAM-IA/wiki) |
+| 🤖 **Machine Learning Aplicado** | Introdução ao aprendizado de máquina, algoritmos supervisionados e não supervisionados, avaliação de modelos e aplicações práticas. | [📂 Acessar conteúdo](https://github.com/ErikaDilly/ML-estudos/wiki) |
 ---
 <!--
-## 🕹️ Processamento de Linguagem Natural (PLN) e Chatbots
+## 💬 Processamento de Linguagem Natural (PLN) e Chatbots
 
 **Descrição:**  
 Disciplina voltada ao estudo das técnicas de processamento de linguagem natural e ao desenvolvimento de chatbots, abordando desde o pré-processamento de textos até a implementação de assistentes conversacionais.
